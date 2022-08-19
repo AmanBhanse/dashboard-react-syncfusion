@@ -9,6 +9,7 @@ Click below to watch demo video
 [![Punk NFT Store](https://img.youtube.com/vi/fB9aL4KTL_I/0.jpg)](https://www.youtube.com/watch?v=fB9aL4KTL_I)
 
 </p>
+
 ## Technologies and packages
 
 The application is developed in React. For visualization of charts, table and graphs Syncfusion library is used.
